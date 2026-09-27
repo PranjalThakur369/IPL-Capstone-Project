@@ -27,7 +27,6 @@ Some of the analysis covered in the project includes:
 * Player performance analysis
 * Match statistics
 * Team and player comparisons
-* Season-wise analysis
 * Batting and bowling performance
 * Distribution and trends in match data
 * Statistical analysis using NumPy and Pandas
@@ -44,7 +43,6 @@ Various charts and plots are used to understand the data better, including:
 * Line charts
 * Histograms
 * Box plots
-* Heatmaps
 * Comparative visualizations
 
 These visualizations make it easier to identify patterns, trends, and differences in IPL performance.
@@ -52,29 +50,25 @@ These visualizations make it easier to identify patterns, trends, and difference
 ## 📂 Project Structure
 
 ```text
-IPL-Data-Analysis/
+IPL-Capstone-Project/
 │
-├── IPL_Data_Analysis.ipynb
+├── main.ipynb
 ├── IPL.csv
 ├── README.md
-└── images/
-    └── visualizations/
 ```
-
-> The file names can be changed according to your actual project structure.
 
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/IPL-Data-Analysis.git
+git clone https://github.com/your-username/IPL-Capstone-Project.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd IPL-Data-Analysis
+cd IPL-Capstone-Project
 ```
 
 ### 3. Install the required libraries
@@ -94,7 +88,6 @@ Then open the `.ipynb` file and run the cells.
 ## 🎯 Project Objectives
 
 * Understand and clean real-world sports data
-* Perform exploratory data analysis (EDA)
 * Use Python libraries for data manipulation
 * Identify trends and patterns in IPL data
 * Create meaningful data visualizations
@@ -104,8 +97,6 @@ Then open the `.ipynb` file and run the cells.
 
 Through this project, I gained practical experience in:
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
 * Grouping and aggregation using Pandas
 * Numerical analysis using NumPy
 * Data visualization
